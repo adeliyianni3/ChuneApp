@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="Locations">
+        <item>[Please Select A Location]</item>
+        <item>Current Location</item>
+        <item>Cancun</item>
+        <item>London</item>
+        <item>Moscow</item>
+        <item>Random Location</item>
+    </string-array>
+</resources>
